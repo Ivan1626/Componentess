@@ -1,0 +1,21 @@
+ID,Nombre del Componente,Material,Temperatura (Celsius),Precio
+1,Tornillo de fijación,Acero inoxidable,25,0.5
+2,Piñón de transmisión,Aluminio,80,2.3
+3,Rodamiento de bolas,Cromo,150,5.0
+4,Eje de transmisión,Acero aleado,120,8.2
+5,Cilindro hidráulico,Acero al carbono,60,15.7
+6,Resorte de compresión,Acero inoxidable,30,2.1
+7,Válvula de control,Bronce,90,12.5
+8,Engranaje helicoidal,Acero aleado,110,6.8
+9,Pistón neumático,Aluminio,45,7.3
+10,Tuerca de seguridad,Acero inoxidable,20,1.0
+11,Buje de fricción,Bronce,70,3.5
+12,Placa de montaje,Aluminio,40,4.9
+13,Manguito de goma,Silicona,25,1.8
+14,Sensor de temperatura,Cobre,100,9.5
+15,Bomba hidráulica,Hierro fundido,80,22.0
+16,Correa de transmisión,Goma,50,3.0
+17,Tubo de acero,Acero al carbono,120,4.7
+18,Interruptor de presión,Plástico,30,1.2
+19,Motor eléctrico,Cobre,60,35.0
+20,Caja de engranajes,Aluminio,95,14.5
